@@ -26,7 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+  This took longer than expected. Won't be able to console.log header until HTML is loaded. Needed DOMContentLoaded.
 ```
 
 ## Deliverable 2
@@ -35,7 +35,7 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
-
+Trickier than expected. AGAIN, need to use DOMContentLoaded. BUT, used console.dir to find STYLE in order to change text color. Be aware to use .style
 ```
 
 ## Deliverable 3
